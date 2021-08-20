@@ -14,6 +14,6 @@ Python 3.0
 
 # Result
 
-<Pre>
-  ![image](https://user-images.githubusercontent.com/21171341/130286137-75a51b8d-dc16-49c5-a161-386f6c09f096.png)  
-</pre>
+![image](https://user-images.githubusercontent.com/21171341/130286373-2d7413f2-c754-4462-ae08-7c870a2196f2.png)
+
+
